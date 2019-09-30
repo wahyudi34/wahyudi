@@ -1,2 +1,2 @@
 # wahyudi
-my file
+Ini adalah repository pertaman saya
