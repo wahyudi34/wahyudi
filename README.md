@@ -1,2 +1,2 @@
 # wahyudi
-Ini adalah repository pertaman saya
+Ini adalah repository pertama saya
